@@ -9,12 +9,21 @@
   [
     "sources/1.md",
     "sources/2.md",
-    "sources/3.md",
-    "sources/4.md"
+    "sources/3.md"
+  ],
+  [
+    "examples/1.md",
+    "examples/2.md",
+    "examples/3.md",
+    "examples/4.md",
+    "examples/5.md",
+    "examples/6.md",
+    "examples/7.md"
   ],
   [ 
     "services/1.md",
-    "services/2.md"
+    "services/2.md",
+    "services/3.md"
   ],
   [ 
     "meta/1.md",
